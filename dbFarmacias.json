@@ -135,43 +135,43 @@
     {
       "id": "1",
       "name": "Boffa",
-      "lat": "",
-      "lon": "",
+      "lat": -33.35386710132978,
+      "lon": -60.19665060473372,
       "address": "Av. Savio 1142"
     },
     {
       "id": "2",
       "name": "Cej",
-      "lat": "",
-      "lon": "",
+      "lat": -33.34204348639081,
+      "lon": -60.20894950288566,
       "address": "Maipú 495"
     },
     {
       "id": "3",
       "name": "De Los Arroyos",
-      "lat": "",
-      "lon": "",
+      "lat": -33.32916183927236,
+      "lon": -60.21570200473506,
       "address": "Nación 102"
     },
     {
       "id": "4",
       "name": "Lombardi",
-      "lat": "",
-      "lon": "",
+      "lat": -33.33400345367174,
+      "lon": -60.23014073357039,
       "address": "Av. Alberdi 548"
     },
     {
       "id": "5",
       "name": "Porta",
-      "lat": "",
-      "lon": "",
+      "lat": -33.338506661084516,
+      "lon": -60.219263306583315,
       "address": "Av. Savio 147"
     },
     {
       "id": "6",
       "name": "Romero",
-      "lat": "",
-      "lon": "",
+      "lat": -33.356978430137346,
+      "lon": -60.24538267589811,
       "address": "Pte. Perón 1648"
     }
   ],
@@ -179,46 +179,399 @@
     {
       "id": "1",
       "name": "Almada",
-      "lat": "",
-      "lon": "",
+      "lat": -33.33809357048762,
+      "lon": -60.21483873357023,
       "address": "Maipú y J. B. Justo"
     },
     {
       "id": "2",
       "name": "Catalan",
-      "lat": "",
-      "lon": "",
+      "lat": -33.339203656719455,
+      "lon": -60.208158791241075,
       "address": "Almafuerte 442"
     },
     {
       "id": "3",
       "name": "De La Torre",
-      "lat": "",
-      "lon": "",
+      "lat": -33.31731156811025,
+      "lon": -60.23116020473564,
       "address": "Av. Arturo Illia 643"
     },
     {
       "id": "4",
       "name": "Girardi",
-      "lat": "",
-      "lon": "",
+      "lat": -33.36033017498645,
+      "lon": -60.18731794706247,
       "address": "Av. Savio 1634"
     },
     {
       "id": "5",
       "name": "Henrich",
-      "lat": "",
-      "lon": "",
+      "lat": -33.33104064879514,
+      "lon": -60.21998907589947,
       "address": "9 de Julio 63"
     },
     {
       "id": "6",
       "name": "Tonon",
-      "lat": "",
-      "lon": "",
+      "lat": -33.34247267904897,
+      "lon": -60.22468084891203,
       "address": "Garibaldi 692"
     } 
   ],
+  "f": [
+    {
+      "id": "1",
+      "name": "Cantondebat",
+      "lat": -33.35055010878087,
+      "lon": -60.213401135418216,
+      "address": "Brown 598"
+    },
+    {
+      "id": "2",
+      "name": "Cavara",
+      "lat": -33.33570727517761,
+      "lon": -60.20832214521492,
+      "address": "Italia Y Necochea"
+    },
+    {
+      "id": "3",
+      "name": "Fenix",
+      "lat": -33.33426894452214,
+      "lon": -60.21697324704747,
+      "address": "Garibaldi 281"
+    },
+    {
+      "id": "4",
+      "name": "Frattini",
+      "lat": -33.33443759070356,
+      "lon": -60.22511569124136,
+      "address": "Av. Moreno 108"
+    },
+    {
+      "id": "5",
+      "name": "Prat",
+      "lat": -33.34953240647645,
+      "lon": -60.235944977747174,
+      "address": "Pte Perón 1093"
+    },
+    {
+      "id": "6",
+      "name": "Zonta",
+      "lat": -33.324212854979265,
+      "lon": -60.22765330658413,
+      "address": "Urquiza 422"
+    }
+  ],
+  "g": [
+    {
+      "id": "1",
+      "name": "Barbotti",
+      "lat": -33.33873459232787,
+      "lon": -60.21124080473454,
+      "address": "Bolivar y Necochea"
+    },
+    {
+      "id": "2",
+      "name": "Brasesco",
+      "lat": -33.35593551366345,
+      "lon": -60.19359378939154,
+      "address": "Av. Savio y Pombo"
+    },
+    {
+      "id": "3",
+      "name": "Cesari",
+      "lat": -33.330753440513476,
+      "lon": -60.21739346240608,
+      "address": "Nacion 183"
+    },
+    {
+      "id": "4",
+      "name": "Conde",
+      "lat": -33.340982587119136,
+      "lon": -60.22739727589888,
+      "address": "Nacion 701"
+    },
+    {
+      "id": "5",
+      "name": "Garaguso",
+      "lat": -33.3317777302354,
+      "lon": -60.22213790473496,
+      "address": "Belgrano 320"
+    },
+    {
+      "id": "6",
+      "name": "Prina",
+      "lat": -33.31491275949685,
+      "lon": -60.233554777749006,
+      "address": "Av. Arturo Illia 739"
+    }
+  ],
+  "h": [
+    {
+      "id": "1",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "2",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "3",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "4",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "5",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "6",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    }
+  ],
+  "i": [
+    {
+      "id": "1",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "2",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "3",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "4",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "5",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "6",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    }
+  ],
+  "j": [
+    {
+      "id": "1",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "2",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "3",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "4",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "5",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "6",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    }
+  ],
+  "k": [
+    {
+      "id": "1",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "2",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "3",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "4",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "5",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "6",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    }
+  ],
+  "l": [
+    {
+      "id": "1",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "2",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "3",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "4",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "5",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "6",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    }
+  ],
+  "m": [
+    {
+      "id": "1",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "2",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "3",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "4",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "5",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    },
+    {
+      "id": "6",
+      "name": "",
+      "lat": "",
+      "lon": "",
+      "address": ""
+    }
+  ]
+
   
   
 }
