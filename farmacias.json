@@ -255,42 +255,48 @@
       "name": "Cantondebat",
       "lat": -33.35055010878087,
       "lon": -60.213401135418216,
-      "address": "Brown 598"
+      "address": "Brown 598",
+      "tel":""
     },
     {
       "id": "2",
       "name": "Cavara",
       "lat": -33.33570727517761,
       "lon": -60.20832214521492,
-      "address": "Italia Y Necochea"
+      "address": "Italia Y Necochea",
+      "tel":"03364436204"
     },
     {
       "id": "3",
       "name": "Fenix",
       "lat": -33.33426894452214,
       "lon": -60.21697324704747,
-      "address": "Garibaldi 281"
+      "address": "Garibaldi 281",
+      "tel":"03364423117"
     },
     {
       "id": "4",
       "name": "Frattini",
       "lat": -33.33443759070356,
       "lon": -60.22511569124136,
-      "address": "Av. Moreno 108"
+      "address": "Av. Moreno 108",
+      "tel":""
     },
     {
       "id": "5",
       "name": "Prat",
       "lat": -33.34953240647645,
       "lon": -60.235944977747174,
-      "address": "Pte Perón 1093"
+      "address": "Pte Perón 1093",
+      "tel":"03364441803"
     },
     {
       "id": "6",
       "name": "Zonta",
       "lat": -33.324212854979265,
       "lon": -60.22765330658413,
-      "address": "Urquiza 422"
+      "address": "Urquiza 422",
+      "tel":"03364429885"
     }
   ],
   "g": [
@@ -299,42 +305,48 @@
       "name": "Barbotti",
       "lat": -33.33873459232787,
       "lon": -60.21124080473454,
-      "address": "Bolivar y Necochea"
+      "address": "Bolivar y Necochea",
+      "tel":"03364452228"
     },
     {
       "id": "2",
       "name": "Brasesco",
       "lat": -33.35593551366345,
       "lon": -60.19359378939154,
-      "address": "Av. Savio y Pombo"
+      "address": "Av. Savio y Pombo",
+      "tel":"03364424768"
     },
     {
       "id": "3",
       "name": "Cesari",
       "lat": -33.330753440513476,
       "lon": -60.21739346240608,
-      "address": "Nacion 183"
+      "address": "Nacion 183",
+      "tel":"03364427258"
     },
     {
       "id": "4",
       "name": "Conde",
       "lat": -33.340982587119136,
       "lon": -60.22739727589888,
-      "address": "Nacion 701"
+      "address": "Nacion 701",
+      "tel":"03364422389"
     },
     {
       "id": "5",
       "name": "Garaguso",
       "lat": -33.3317777302354,
       "lon": -60.22213790473496,
-      "address": "Belgrano 320"
+      "address": "Belgrano 320",
+      "tel":"03364619164"
     },
     {
       "id": "6",
       "name": "Prina",
       "lat": -33.31491275949685,
       "lon": -60.233554777749006,
-      "address": "Av. Arturo Illia 739"
+      "address": "Av. Arturo Illia 739",
+      "tel":"03364453776"
     }
   ],
   "h": [
@@ -594,51 +606,8 @@
       "address": "Lavalle 215 bis",
       "tel":"03364422016"
     }
-  ],
-  "m": [
-    {
-      "id": "1",
-      "name": "",
-      "lat": "",
-      "lon": "",
-      "address": ""
-    },
-    {
-      "id": "2",
-      "name": "",
-      "lat": "",
-      "lon": "",
-      "address": ""
-    },
-    {
-      "id": "3",
-      "name": "",
-      "lat": "",
-      "lon": "",
-      "address": ""
-    },
-    {
-      "id": "4",
-      "name": "",
-      "lat": "",
-      "lon": "",
-      "address": ""
-    },
-    {
-      "id": "5",
-      "name": "",
-      "lat": "",
-      "lon": "",
-      "address": ""
-    },
-    {
-      "id": "6",
-      "name": "",
-      "lat": "",
-      "lon": "",
-      "address": ""
-    }
   ]
+
 
   
   
