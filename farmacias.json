@@ -469,23 +469,26 @@
     {
       "id": "1",
       "name": "Andrada",
-      "lat": "",
-      "lon": "",
-      "address": "Av. Savio 601"
+      "lat":-33.346015148456274,
+      "lon":-60.20826593172356,
+      "address": "Av. Savio 601",
+      "tel":"33644452855"
     },
     {
       "id": "2",
       "name": "Ma. Inés Lopez",
-      "lat": "",
-      "lon": "",
-      "address": "L. Guruciaga 103"
+      "lat": -33.32584631741433,
+      "lon": -60.220503591242775,
+      "address": "L. Guruciaga 103",
+      "tel":"03364420142"
     },
     {
       "id": "3",
       "name": "Martinelli",
-      "lat": "",
-      "lon": "",
-      "address": "Av. Pte. Illia Nº 1127"
+      "lat": -33.30760644584409,
+      "lon": -60.24594672007921,
+      "address": "Av. Pte. Illia Nº 1127",
+      "tel":""
     },
     {
       "id": "4",
