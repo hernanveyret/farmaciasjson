@@ -5,42 +5,48 @@
       "name":"Armellini",
       "lat":-33.386941417345604,
       "lon":-60.1757641775202,
-      "address":"Av. Central Malvinas Argentinas 3105"
+      "address":"Av. Central Malvinas Argentinas 3105",
+      "tel":"03364462060"
     },
     {
       "id": "2",
       "name":"Cabrera",
       "lat":-33.33655176747358,
       "lon":-60.21076250473463,
-      "address":"Av. Falcón 222"
+      "address":"Av. Falcón 222",
+      "tel":""
     },
     {
       "id": "3",
       "name":"Diamante",
       "lat":-33.34041056512958,
       "lon":-60.230896722537636,
-      "address":"Belgrano y Albarez"
+      "address":"Belgrano y Albarez",
+      "tel":"03364426161"
     },
     {
       "id": "4",
       "name":"Furlan",
       "lat":-33.32788406441988,
       "lon":-60.224821148912916,
-      "address":"9 de Julio 260"
+      "address":"9 de Julio 260",
+      "tel":"03364435036"
     },
     {
       "id": "5",
       "name":"Gonzalez Pacin",
       "lat":-33.33341236133698,
       "lon":-60.21976489309024,
-      "address":"Nacion 314"
+      "address":"Nacion 314",
+      "tel":"03364425294"
     },
     {
       "id": "6",
       "name":"Hector Lopez",
       "lat":-33.34691310054558,
       "lon":-60.201602491240784,
-      "address":"Maipú 794"
+      "address":"Maipú 794",
+      "tel":""
     }
   ],
   "b": [
@@ -49,42 +55,48 @@
       "name":"Carrera",
       "lat":-33.33527550138496,
       "lon":-60.21376893357031,
-      "address":"Almafuerte y España"
+      "address":"Almafuerte y España",
+      "tel":""
     },
     {
       "id": "2",
       "name":"Coccaro",
       "lat":-33.34474852087967,
       "lon":-60.19377664891196,
-      "address":"Rivadavia 987 Bis"
+      "address":"Rivadavia 987 Bis",
+      "tel":"03364450202"
     },
     {
       "id": "3",
       "name":"Del Pueblo",
       "lat":-33.33596684872637,
       "lon":-60.222195275899224,
-      "address":"Nacion 450"
+      "address":"Nacion 450",
+      "tel":"03364425552"
     },
     {
       "id": "4",
       "name":"Dotto",
       "lat":-33.34457735789202,
       "lon":-60.21517806240539,
-      "address":"Pringles y Alvear"
+      "address":"Pringles y Alvear",
+      "tel":""
     },
     {
       "id": "5",
       "name":"Melone",
       "lat":-33.34419558241745,
       "lon":-60.2302618624053,
-      "address":"Pte. Perón 858"
+      "address":"Pte. Perón 858",
+      "tel":"03364441989"
     },
     {
       "id": "6",
       "name":"Taljame",
       "lat":-33.32988423370772,
       "lon":-60.226030860557444,
-      "address":"Av. Alberdi 346"
+      "address":"Av. Alberdi 346",
+      "tel":"03364426672"
     }
   ],
   "c": [
@@ -93,42 +105,48 @@
       "name":"Amefarma",
       "lat":-33.33026605518724,
       "lon":-60.21862980473507,
-      "address":"Mitre 200"
+      "address":"Mitre 200",
+      "tel":"03364425920"
     },
     {
       "id": "2",
       "name":"Garetto",
       "lat":-33.34521879728404,
       "lon":-60.22341908939211,
-      "address":"Av Morteo y España"
+      "address":"Av Morteo y España",
+      "tel":"03364424849"
     },
     {
       "id": "3",
       "name":"Liliana Latorre",
       "lat":-33.336248827222235,
       "lon":-60.21697028440585,
-      "address":"Ameghino 347"
+      "address":"Ameghino 347",
+      "tel":""
     },
     {
       "id": "4",
       "name":"Ponce",
       "lat":-33.368253649871356,
       "lon":-60.19906733356849,
-      "address":"Juramento 1445"
+      "address":"Juramento 1445",
+      "tel":"03364572034"
     },
     {
       "id": "5",
       "name":"Rasetto",
       "lat":-33.326447425222845,
       "lon":-60.233922104735235,
-      "address":"Av. Viale 401"
+      "address":"Av. Viale 401",
+      "tel":"03364430050"
     },
     {
       "id": "6",
       "name":"San Nicolas",
       "lat":-33.34476855830512,
       "lon":-60.2054229470632,
-      "address":"Cochabamba 357"
+      "address":"Cochabamba 357",
+      "tel":""
     }
   ],
   "d": [
@@ -137,42 +155,48 @@
       "name": "Boffa",
       "lat": -33.35386710132978,
       "lon": -60.19665060473372,
-      "address": "Av. Savio 1142"
+      "address": "Av. Savio 1142",
+      "tel":"03364451628"
     },
     {
       "id": "2",
       "name": "Cej",
       "lat": -33.34204348639081,
       "lon": -60.20894950288566,
-      "address": "Maipú 495"
+      "address": "Maipú 495",
+      "tel":"03364430391"
     },
     {
       "id": "3",
       "name": "De Los Arroyos",
       "lat": -33.32916183927236,
       "lon": -60.21570200473506,
-      "address": "Nación 102"
+      "address": "Nación 102",
+      "tel":"03364423130"
     },
     {
       "id": "4",
       "name": "Lombardi",
       "lat": -33.33400345367174,
       "lon": -60.23014073357039,
-      "address": "Av. Alberdi 548"
+      "address": "Av. Alberdi 548",
+      "tel":"03364436606"
     },
     {
       "id": "5",
       "name": "Porta",
       "lat": -33.338506661084516,
       "lon": -60.219263306583315,
-      "address": "Av. Savio 147"
+      "address": "Av. Savio 147",
+      "tel":"03364459244"
     },
     {
       "id": "6",
       "name": "Romero",
       "lat": -33.356978430137346,
       "lon": -60.24538267589811,
-      "address": "Pte. Perón 1648"
+      "address": "Pte. Perón 1648",
+      "tel":"03364443073"
     }
   ],
   "e": [
@@ -181,43 +205,49 @@
       "name": "Almada",
       "lat": -33.33809357048762,
       "lon": -60.21483873357023,
-      "address": "Maipú y J. B. Justo"
+      "address": "Maipú y J. B. Justo",
+      "tel":"03364425645"
     },
     {
       "id": "2",
       "name": "Catalan",
       "lat": -33.339203656719455,
       "lon": -60.208158791241075,
-      "address": "Almafuerte 442"
+      "address": "Almafuerte 442",
+      "tel":"03364421595"
     },
     {
       "id": "3",
       "name": "De La Torre",
       "lat": -33.31731156811025,
       "lon": -60.23116020473564,
-      "address": "Av. Arturo Illia 643"
+      "address": "Av. Arturo Illia 643",
+      "tel":""
     },
     {
       "id": "4",
       "name": "Girardi",
       "lat": -33.36033017498645,
       "lon": -60.18731794706247,
-      "address": "Av. Savio 1634"
+      "address": "Av. Savio 1634",
+      "tel":"03364462724"
     },
     {
       "id": "5",
       "name": "Henrich",
       "lat": -33.33104064879514,
       "lon": -60.21998907589947,
-      "address": "9 de Julio 63"
+      "address": "9 de Julio 63",
+      "tel":"03364434455"
     },
     {
       "id": "6",
       "name": "Tonon",
       "lat": -33.34247267904897,
       "lon": -60.22468084891203,
-      "address": "Garibaldi 692"
-    } 
+      "address": "Garibaldi 692",
+      "tel":"03364421059"
+    }
   ],
   "f": [
     {
@@ -493,67 +523,76 @@
     {
       "id": "4",
       "name": "Palau",
-      "lat": "",
-      "lon": "",
-      "address": "Av. Central 2215"
+      "lat": -33.381217184264806,
+      "lon": -60.17691486931719,
+      "address": "Av. Central 2215",
+      "tel":"03364462030"
     },
     {
       "id": "5",
       "name": "Radium",
-      "lat": "",
-      "lon": "",
-      "address": "Nación 352"
+      "lat": -33.334118807864,
+      "lon": -60.220428004736256,
+      "address": "Nación 352",
+      "tel":"03364422327"
     },
     {
       "id": "6",
       "name": "Tonello",
-      "lat": "",
-      "lon": "",
-      "address": "Av. Falcón 651"
+      "lat": -33.345026071091006,
+      "lon": -60.21977994891237,
+      "address": "Av. Falcón 651",
+      "tel":"03364139497"
     }
   ],
   "l": [
     {
       "id": "1",
       "name": "Baroni",
-      "lat": "",
-      "lon": "",
-      "address": "Av. Irigoyen 1272 (Bº Avamba'e)"
+      "lat": -33.375773431629916,
+      "lon": -60.206423542329276,
+      "address": "Av. Irigoyen 1272 (Bº Avamba'e)",
+      "tel":""
     },
     {
       "id": "2",
       "name": "Capra",
-      "lat": "",
-      "lon": "",
-      "address": "Av. Moreno 466"
+      "lat": -33.3282923654617,
+      "lon": -60.23377166240725,
+      "address": "Av. Moreno 466",
+      "tel":"03364433606"
     },
     {
       "id": "3",
       "name": "Hegouaburu",
-      "lat": "",
-      "lon": "",
-      "address": "Mitre y Lamadrid"
+      "lat": -33.33816751744502,
+      "lon": -60.22673372007739,
+      "address": "Mitre y Lamadrid",
+      "tel":"03364426551"
     },
     {
       "id": "4",
       "name": "Maccaroni",
-      "lat": "",
-      "lon": "",
-      "address": "Av. Savio 725"
+      "lat": -33.34809535230986,
+      "lon": -60.2054570335707,
+      "address": "Av. Savio 725",
+      "tel":"0336154537811"
     },
     {
       "id": "5",
       "name": "Menna",
-      "lat": "",
-      "lon": "",
-      "address": "Rivadavia 501"
+      "lat": -33.33745478902769,
+      "lon": -60.20402252007743,
+      "address": "Rivadavia 501",
+      "tel":"03364437078"
     },
     {
       "id": "6",
       "name": "Pucciarelli",
-      "lat": "",
-      "lon": "",
-      "address": "Lavalle 215 bis"
+      "lat": -33.32898319571259,
+      "lon": -60.22135454891328,
+      "address": "Lavalle 215 bis",
+      "tel":"03364422016"
     }
   ],
   "m": [
