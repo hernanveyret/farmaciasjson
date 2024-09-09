@@ -1,6 +1,1502 @@
 {
   "2024": [
     {
+      "1": [
+        {
+          "dia": 1,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 2,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 3,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 4,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 5,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 6,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 7,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 8,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 9,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 10,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 11,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 12,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 13,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 14,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia":15,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 16,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 17,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 18,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 19,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 20,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 21,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 22,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 23,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 24,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 25,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 26,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 27,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 28,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 29,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 30,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        },
+        {
+          "dia": 31,
+          "dateShift": "",
+          "mes": "Enero",
+          "pharmacies": []
+        }
+      ]
+    },
+    {
+      "2": [
+        {
+          "dia": 1,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 2,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 3,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 4,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 5,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 6,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 7,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 8,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 9,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 10,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 11,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 12,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 13,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 14,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia":15,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 16,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 17,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 18,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 19,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 20,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 21,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 22,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 23,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 24,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 25,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 26,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 27,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 28,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        },
+        {
+          "dia": 29,
+          "dateShift": "",
+          "mes": "Febrero",
+          "pharmacies": []
+        }
+      ]
+    },
+    {
+      "3": [
+        {
+          "dia": 1,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 2,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 3,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 4,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 5,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 6,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 7,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 8,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 9,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 10,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 11,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 12,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 13,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 14,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia":15,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 16,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 17,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 18,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 19,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 20,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 21,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 22,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 23,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 24,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 25,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 26,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 27,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 28,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 29,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 30,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        },
+        {
+          "dia": 31,
+          "dateShift": "",
+          "mes": "Marzo",
+          "pharmacies": []
+        }
+      ]
+    },
+    {
+      "4": [
+        {
+          "dia": 1,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 2,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 3,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 4,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 5,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 6,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 7,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 8,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 9,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 10,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 11,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 12,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 13,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 14,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia":15,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 16,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 17,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 18,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 19,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 20,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 21,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 22,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 23,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 24,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 25,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 26,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 27,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 28,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 29,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        },
+        {
+          "dia": 30,
+          "dateShift": "",
+          "mes": "Abril",
+          "pharmacies": []
+        }
+      ]
+    },
+    {
+      "5": [
+        {
+          "dia": 1,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 2,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 3,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 4,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 5,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 6,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 7,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 8,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 9,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 10,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 11,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 12,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 13,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 14,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia":15,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 16,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 17,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 18,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 19,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 20,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 21,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 22,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 23,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 24,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 25,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 26,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 27,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 28,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 29,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 30,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        },
+        {
+          "dia": 31,
+          "dateShift": "",
+          "mes": "Mayo",
+          "pharmacies": []
+        }
+      ]
+    },
+    {
+      "6": [
+        {
+          "dia": 1,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 2,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 3,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 4,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 5,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 6,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 7,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 8,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 9,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 10,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 11,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 12,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 13,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 14,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia":15,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 16,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 17,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 18,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 19,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 20,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 21,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 22,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 23,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 24,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 25,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 26,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 27,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 28,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 29,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        },
+        {
+          "dia": 30,
+          "dateShift": "",
+          "mes": "Junio",
+          "pharmacies": []
+        }
+      ]
+    },
+    {
+      "7": [
+        {
+          "dia": 1,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 2,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 3,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 4,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 5,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 6,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 7,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 8,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 9,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 10,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 11,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 12,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 13,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 14,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia":15,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 16,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 17,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 18,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 19,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 20,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 21,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 22,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 23,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 24,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 25,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 26,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 27,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 28,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 29,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 30,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        },
+        {
+          "dia": 31,
+          "dateShift": "",
+          "mes": "Julio",
+          "pharmacies": []
+        }
+      ]
+    },
+    {
+      "8": [
+        {
+          "dia": 1,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 2,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 3,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 4,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 5,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 6,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 7,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 8,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 9,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 10,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 11,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 12,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 13,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 14,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia":15,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 16,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 17,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 18,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 19,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 20,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 21,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 22,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 23,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 24,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 25,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 26,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 27,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 28,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 29,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 30,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        },
+        {
+          "dia": 31,
+          "dateShift": "",
+          "mes": "Agosto",
+          "pharmacies": []
+        }
+      ]
+    },
+    {
       "9": [
         {
           "dia": 1,
