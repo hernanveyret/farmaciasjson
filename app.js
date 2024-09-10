@@ -7,6 +7,7 @@ console.log(dataDb[2024][0][1][1])
 
 
 dataDb[2024][0][1].forEach(e=> {
+    /*
 
 
  console.log(data[e.dateShift])
@@ -19,7 +20,6 @@ dataDb[2024][0][1].forEach(e=> {
        })
 
      
-/*
   dataDb[2024][2][3].forEach(e=> {
       if(e.dateShift.includes(e.dateShift)){
       e.pharmacies.push(data[e.dateShift])

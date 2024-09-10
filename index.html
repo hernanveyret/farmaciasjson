@@ -8,27 +8,27 @@
 <body>
     <h1>Datos de Farmacias</h1>
     <script>
-        let urlInfo = './farmacias.json'
-        let urlDb = './farmacias2024.json'
-      
+        let urlInfo = './infoFarmacias.json'
+        let urlDb = './datafarmacias2024.json'
+        let arr = []
 
         fetch(urlInfo)
         .then(res=> res.json())
         .then(data => {
-           console.log(data)
+           console.log('Famacias: ',data)
     
         fetch(urlDb)
         .then(respuesta => respuesta.json())
         .then(dataDb => {
-           console.log(dataDb)
-            dataDb[2024].forEach(e => {
-                console.log(e)
-            })
-        console.log(dataDb[2024][0][1][0])
-        //                 [año][indice de mes][mes][indice dia]
-        //                 [2024][enero][enero][dia 1]
-
-
+           console.log('Base de datos:',dataDb[2024][0][1][0].pharmacies)
+           
+           
+           let filtro = data.find(el => el.letra ==='a')
+           console.log(filtro.farmacias.length)
+           filtro.farmacias.forEach(e => {
+               dataDb[2024][0][1][0].pharmacies.push(e)
+            })     
+            console.log('Base de datos:',dataDb[2024][0][1][0].pharmacies)
             
         })
         }) 
