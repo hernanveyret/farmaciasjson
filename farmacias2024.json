@@ -19212,7 +19212,7 @@
           "dateShift": "l",
           "mes": "Diciembre",
           "pharmacies": [
-            [
+            
               {
                 "id": "1",
                 "name": "Baroni",
@@ -19262,14 +19262,14 @@
                 "tel": "03364422016"
               }
             ]
-          ]
+          
         },
         {
           "dia": 2,
           "dateShift": "a",
           "mes": "Noviembre",
           "pharmacies": [
-            [
+            
               {
                 "id": "1",
                 "name": "Armellini",
@@ -19318,7 +19318,7 @@
                 "address": "Maipú 794",
                 "tel": ""
               }
-            ]
+            
           ]
         },
         {

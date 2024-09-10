@@ -10,6 +10,7 @@
     <script>
         let urlInfo = './farmacias.json'
         let urlDb = './farmacias2024.json'
+      
 
         fetch(urlInfo)
         .then(res=> res.json())
@@ -26,6 +27,9 @@
         console.log(dataDb[2024][0][1][0])
         //                 [año][indice de mes][mes][indice dia]
         //                 [2024][enero][enero][dia 1]
+
+
+            
         })
         }) 
     </script>
