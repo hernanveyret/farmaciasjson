@@ -6,8 +6,8 @@ console.log(dataDb[2024][0][1][1])
 
 
 
+/*
 dataDb[2024][0][1].forEach(e=> {
-    /*
 
 
  console.log(data[e.dateShift])
