@@ -1,66 +1,26 @@
 const fs = require('fs');
 const data = require('./farmacias.json')
-const dataDb = require('./datafarmacias2024.json')
+const dataDb = require('./datafarmacias.json')
 
-console.log(dataDb[2024][0][1][1])
-
-
-
-/*
-dataDb[2024][0][1].forEach(e=> {
-
-
- console.log(data[e.dateShift])
- 
-  if(e.dateShift.includes(e.dateShift)){
-
-    
-     e.pharmacies.push(data[e.dateShift])
-   }    
-       })
-
-     
-  dataDb[2024][2][3].forEach(e=> {
-      if(e.dateShift.includes(e.dateShift)){
-      e.pharmacies.push(data[e.dateShift])
-      }    
+// Cambiar el año en dataDb y poner el que corresponda segun el archivo datafarmacias.json
+dataDb[2025].forEach((el,i) => {
+    //console.log(el[i+1])
+        el[i+1].forEach(ele => {
+            //console.log(ele)
+            if(ele.dateShift.includes(ele.dateShift)){
+               // ele.pharmacies.push(data[ele.dateShift])
+               
+               for(let aa =0; aa < data[ele.dateShift].length; aa++){
+                  // console.log('Cada farmacia',data[ele.dateShift][aa])
+                ele.pharmacies.push(data[ele.dateShift][aa])                
+                }
+            }
+        })
   })
 
-  dataDb[2024][3][4].forEach(e=> {
-    if(e.dateShift.includes(e.dateShift)){
-    e.pharmacies.push(data[e.dateShift])
-    }    
-})
-
-dataDb[2024][4][5].forEach(e=> {
-    if(e.dateShift.includes(e.dateShift)){
-    e.pharmacies.push(data[e.dateShift])
-    }    
-})
-
-dataDb[2024][5][6].forEach(e=> {
-    if(e.dateShift.includes(e.dateShift)){
-    e.pharmacies.push(data[e.dateShift])
-    }    
-})
-
-dataDb[2024][6][7].forEach(e=> {
-    if(e.dateShift.includes(e.dateShift)){
-    e.pharmacies.push(data[e.dateShift])
-    }    
-})
-
-dataDb[2024][7][8].forEach(e=> {
-    if(e.dateShift.includes(e.dateShift)){
-    e.pharmacies.push(data[e.dateShift])
-    }    
-})
-
-*/
-
-fs.writeFile('algo.json',JSON.stringify(dataDb, null, 2) ,(err) => {
+fs.writeFile('nuevoCronograma.json',JSON.stringify(dataDb, null, 2) ,(err) => {
     if(err){
         throw err;
     }
-    console.log('archivo actualizado o creado')
+    console.log('Nuevo cronograma creado o actualizado')
 })

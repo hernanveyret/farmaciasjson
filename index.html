@@ -8,7 +8,7 @@
 <body>
     <h1>Datos de Farmacias</h1>
     <script>
-        let urlInfo = './infoFarmacias.json'
+        let urlInfo = './farmacias.json'
         let urlDb = './datafarmacias2024.json'
         let arr = []
 
@@ -20,18 +20,26 @@
         fetch(urlDb)
         .then(respuesta => respuesta.json())
         .then(dataDb => {
-           console.log('Base de datos:',dataDb[2024][0][1][0].pharmacies)
-           
-           
-           let filtro = data.find(el => el.letra ==='a')
-           console.log(filtro.farmacias.length)
-           filtro.farmacias.forEach(e => {
-               dataDb[2024][0][1][0].pharmacies.push(e)
-            })     
-            console.log('Base de datos:',dataDb[2024][0][1][0].pharmacies)
-            
+
+          dataDb[2024].forEach((el,i) => {
+            //console.log(el[i+1])
+                el[i+1].forEach(ele => {
+                    //console.log(ele)
+                    if(ele.dateShift.includes(ele.dateShift)){
+                       // ele.pharmacies.push(data[ele.dateShift])
+                       
+                       for(let aa =0; aa < data[ele.dateShift].length; aa++){
+                          // console.log('Cada farmacia',data[ele.dateShift][aa])
+                        ele.pharmacies.push(data[ele.dateShift][aa])
+                        
+                        }
+                    }
+                })
+          }) 
+          console.log(dataDb)  
         })
-        }) 
+    }) 
+
     </script>
 </body>
 </html>

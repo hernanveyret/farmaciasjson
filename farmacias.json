@@ -102,7 +102,7 @@
   "c": [
     {
       "id": "1",
-      "name":"Amefarma",
+      "name":"Amefarma SCR",
       "lat":-33.33026605518724,
       "lon":-60.21862980473507,
       "address":"Mitre 200",
@@ -218,7 +218,7 @@
     },
     {
       "id": "3",
-      "name": "De La Torre",
+      "name": "Del Santuario",
       "lat": -33.31731156811025,
       "lon": -60.23116020473564,
       "address": "Av. Arturo Illia 643",
@@ -518,7 +518,7 @@
     },
     {
       "id": "2",
-      "name": "Ma. Inés Lopez",
+      "name": "Maria Inés Lopez",
       "lat": -33.32584631741433,
       "lon": -60.220503591242775,
       "address": "L. Guruciaga 103",
